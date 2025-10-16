@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+
+Sitemap: https://fabulous-lolly-8a7ea2.netlify.app/sitemap.xml
